@@ -40,7 +40,7 @@
 
 			for (; i < 10; i++) ;
 			{
-				for (int j = 1000000; j > 0; j--)
+				for (int j = 10; j > 0; j--)
 				{
 					if (func1(i) || func2())
 					{
